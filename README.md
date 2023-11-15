@@ -27,7 +27,7 @@
   nilai UAS. Setelah data dimasukkan, nilai akhir dihitung berdasarkan bobot tertentu dan disimpan dalam bentuk dictionary. Pengaturan tata letak tabel, termasuk penataan 
   angka dan teks, diatur menggunakan parameter numalign dan stralign.
 - OUTPUT
-  ![Screenshot (241)](https://github.com/Maullynn/praktikum4/assets/144296695/0beb5952-f5ed-4433-a982-8497eddef8f2)
+ ![Screenshot (243)](https://github.com/Maullynn/praktikum4/assets/144296695/922b460c-b78a-4940-adc6-5ed3e417849e)
 ## LATIHAN 1
 - print("Elemen ke 3:", A[2]): Menampilkan elemen ke-3 dari list A (indeks 
   dimulai dari 0), yang dalam hal ini adalah nilai 30.
